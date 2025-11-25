@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # torch_comm_test
 Communication of two dgx-spark by torch
 =======
@@ -137,4 +136,3 @@ netstat -tulnp | grep 12355
 2. 确保所有节点的CUDA版本一致
 3. 确保防火墙允许指定端口的通信
 4. 建议在相同的硬件环境下运行
->>>>>>> first create
